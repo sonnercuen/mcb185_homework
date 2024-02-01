@@ -1,0 +1,15 @@
+Wed Jan 31 00:21:29 PST 2024
+user: conne
+home: /home/conne
+shell: /bin/bash
+pwd: /home/conne/Code/mcb185_homework
+path: /usr/local/bin:/usr/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files/dotnet:/cygdrive/c/Program Files/MiKTeX/miktex/bin/x64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/cygdrive/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/cygdrive/c/Users/conne/AppData/Local/Programs/Python/Python312/Scripts:/cygdrive/c/Users/conne/AppData/Local/Programs/Python/Python312:/cygdrive/c/Users/conne/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/texlive/2023/bin/windows
+CYGWIN_NT-10.0-22621 Conners_Laptop 3.4.10-1.x86_64 2023-11-29 12:12 UTC x86_64 Cygwin
+Python 3.9.16
+/home/conne/Code
+/home/conne/Code/MCB185
+/home/conne/Code/MCB185/.git
+/home/conne/Code/MCB185/data
+/home/conne/Code/MCB185/quiz
+/home/conne/Code/mcb185_homework
+/home/conne/Code/mcb185_homework/.git
