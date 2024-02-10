@@ -1,7 +1,10 @@
 # 34scoringmatrix.py by Conner Suen
 
 nts = 'ACGT'
-print('   A  C  G  T')
+for nt in nts:
+	if nt == 'A': print(' ', end='')
+	print(' ', nt, end='')
+print('')
 for nt1 in nts:
 	print(nt1, end = ' ')
 	for nt2 in nts:
