@@ -1,5 +1,5 @@
 # 48report.md by Conner Suen
-##4 5dndstats.py
+##45dndstats.py
 - 10.494
 - 11.829
 - 13.316
@@ -14,3 +14,7 @@
 | P of death: 		| 0.001 |
 | P of stabilizing: | 0.456 |
 | P of revival: 	| 0.543 |
+
+| Outcome     | Death | Stabilizing | Revival |
+|:------------|:------|-------------|--------:|
+| Probability | 0.001 | 0.456       | 0.543   |
