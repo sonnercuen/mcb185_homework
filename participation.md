@@ -20,9 +20,9 @@ Participation
 | 1 |
 | 2 |
 | 3 |
-| 4 |
-| 5 |  1 |    |    |  1 |    |    |  1 |    |     | 3
-| 6 |
+| 4 |  1 |    |    |    |    | 1  |  1 |  1 |   4 | 4
+| 5 |  1 |    |    |  1 |    |    |  1 |  1 |   4 | 3
+| 6 |    |    |    |    |    |
 | 7 | 
 | 8 | 
 | 9 |
@@ -32,3 +32,4 @@ Notes:
 1. I helped another student fix their github account
 2. I stayed after class and got help from the professor
 3. I hosted an unofficial, in person coderie with another student
+4. I answered a question in class
